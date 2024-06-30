@@ -1,0 +1,10 @@
+Total Feedback Entries: 6
+Average Rating: 3.33
+
+Feedbacks:
+Alice: 5 - Great service!
+Bob: 4 - Good, but could improve.
+Charlie: 3 - Average experience.
+David: 2 - Not satisfied.
+Eve: 5 - Excellent!
+Frank: 1 - Very poor service.
